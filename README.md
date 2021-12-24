@@ -1,2 +1,9 @@
 # IOT-WORKSHOP
-My first IOT workshop where we build home automation module.
+### My first IOT workshop where we build home automation module.
+
+**COMPONENTS USED ARE:-**
+1.NODE MCU CONTROLLER(ESP8266)
+2.RELAY MODULE
+3.BULB WITH PLUG
+4.MINI BREADBOARD
+5.USB CABLE
