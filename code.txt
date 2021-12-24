@@ -1,0 +1,15 @@
+//IOT home automation code
+#define BLYNK_TEMPLATE-id "TMPLrL4b13Se"
+BLYNK_AUTH_TOKEN "2DHJfSBaDGvFhdiDHJ"
+#include<BlynksimpleEsp8266.h>
+
+char a[] =BLYNK_AUTH_TOKEN;
+char b[] = "wifi ssid";
+char c[] = "password";
+void setup(){
+BLynk.begin(a,b,c);
+}
+void loop(){
+Blynk.run();
+}
+
